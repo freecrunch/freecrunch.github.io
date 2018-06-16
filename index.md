@@ -3,6 +3,7 @@
 ### Introduction
 The FreeCrunch project is an attempt to get as many people as possible using free cloud instance trials to help genuine research in science and mathematics.
 
+<img src="https://preview.ibb.co/hJyHVJ/1_A949361_C947_4_F76_AE49_1290_C98_B5588.png" align="center">
 Large tech companies are giving away literally hundreds of dollars in free trial credit to everyone. Most of you probably even have an account on one of the services that offer free trials but either didn't use it or didn't know what to use it for. The FreeCrunch project aims to make it as simple as possible to gain access to these resources and put them to good use. It does this by providing information, deployment scripts and administration tips to get the most out of these services and contribute to the worldwide volunteer grid computing effort.
 
 You'll find help with choosing a cloud server provider, setting up your free instances and configuring it to download and run calculations using your server to help with some very worthwhile projects.
