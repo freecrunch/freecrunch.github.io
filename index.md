@@ -15,7 +15,7 @@ Otherwise you can follow the beginners guide here (also coming soon). This guide
 
 ### Project Information
 
-<img src="https://preview.ibb.co/bCcf0J/34886232_7_B9_B_47_F4_AD05_47_D04_FF8_ED09.png" align="left" hspace="5" vspace="5" width="50%" height="50%">The inspiration for this project began in May 2018 when I installed and ran BOINC on my Raspberry Pi 3. It sits idle for most of the day and I wanted to give it a task that was actually useful. As a former SETI user I thought that its small but efficient CPU would be a slow but consistent way to get involved with grid computing again.
+<img src="https://preview.ibb.co/bCcf0J/34886232_7_B9_B_47_F4_AD05_47_D04_FF8_ED09.png" align="left" hspace="5px" vspace="5px" width="50%" height="50%">The inspiration for this project began in May 2018 when I installed and ran BOINC on my Raspberry Pi 3. It sits idle for most of the day and I wanted to give it a task that was actually useful. As a former SETI user I thought that its small but efficient CPU would be a slow but consistent way to get involved with grid computing again.
 
 But alas the tiny CPU was pretty dire. Inspiration soon followed when I realised I could use an Amazon Web Services EC2 one-year trial instance to give my stats a boost. 30 minutes later and I had it up and running. While this helped with my woeful stats the real breakthrough was when a friend told me that Google do free cloud servers too. Before I knew it I had ten BOINC servers going from various providers - all free for a year. It took a fair amount of manual work though and I wished I had automated the process.
 
