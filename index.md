@@ -1,4 +1,4 @@
-## Welcome to FreeCrunch
+### Introduction
 
 The FreeCrunch project is an attempt to get as many people as possible using free cloud instance trials to help genuine research in science and maths.
 
