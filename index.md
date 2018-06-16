@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to FreeCrunch
 
-You can use the [editor on GitHub](https://github.com/freecrunch/freecrunch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The FreeCrunch project is an attempt to get as many people as possible using free cloud instance trials to help genuine research in science and maths.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Large tech companies are giving away literally hundreds of dollars in free trial credit to everyone. Most of you probably even have an account on one of the services that offer free trials but either didn't use it or didn't know what to use it for. The FreeCrunch project aims to make it as simple as possible to gain access to these resources and put them to good use. It does this by providing information, deployment scripts and administration tips to get the most out of these services and contribute to the worldwide volunteer grid computing effort.
 
-### Markdown
+You'll find help with choosing a cloud server provider, setting up your free instances and configuring it to download and run calculations using your server to help with some very worthwhile projects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Want to get started?
 
-```markdown
-Syntax highlighted code block
+If you've already got a cloud server that you want to setup then go here (coming soon) to access the boinc-cloud-deploy repository.
 
-# Header 1
-## Header 2
-### Header 3
+Otherwise you can follow the beginners guide here (also coming soon). This guide will help you create your free instances, setup the required software on it and configure it so you can start crunching data.
 
-- Bulleted
-- List
+### Project Information
 
-1. Numbered
-2. List
+The inspiration for this project began in May 2018 when I installed and ran BOINC on my Raspberry Pi 3. It sits idle for most of the day and I wanted to give it a task that was actually useful. As a former SETI user I thought that its small but efficient CPU would be a slow but consistent way to get involved with grid computing again.
 
-**Bold** and _Italic_ and `Code` text
+But alas the tiny CPU was pretty dire. Inspiration soon followed when I realised I could use an Amazon Web Services EC2 one-year trial instance to give my stats a boost. 30 minutes later and I had it up and running. While this helped with my woeful stats the real breakthrough was when a friend told me that Google do free cloud servers too. Before I knew it I had ten BOINC servers going from various providers - all free for a year. It took a fair amount of manual work though and I wished I had automated the process.
 
-[Link](url) and ![Image](src)
-```
+When I realised how much computing power I had at my disposal I was amazed - and all for free. It also - in my head, at least - went a tiny way towards getting something out of companies that court controversy sometimes. Which is quite pompous, I know. The success of these grid computing effort relies on as many people as possible contributing to the effort and I tried to persuade my friends to help.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+And they all declined. I think this was because of the work involved. I get that. I'm a lazy bastard too. But it seemed like such a waste of resources that were just waiting to be put to use. What was needed was a concerted effort to improve the experience by making it as simple as possible to get involved. An automatic script seemed the easiest way to achieve this, but good documentation and advice also helps, and that's where the FreeCrunch project came from.
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freecrunch/freecrunch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you'd like to offer support to the FreeCrunch project in any way then please contact me at mark AT elmarko.org.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'm after any information on new cloud server companies that offer trials and any special deals you might find. Documentation and coding help is also welcome. Please email or log issues/PRs on the main project repository.
