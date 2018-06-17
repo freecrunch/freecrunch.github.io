@@ -12,7 +12,7 @@ You'll find help with choosing a cloud server provider, setting up your free ins
 
 If you've already got a cloud server that you want to setup then click [here](https://github.com/freecrunch/boinc-cloud-deploy) to access the boinc-cloud-deploy repository.
 
-Otherwise you can follow the beginners guide [here](https://freecrunch.github.io/setup-guide.md). This guide will help you create your free instances, setup the required software on it and configure it so you can start crunching data.
+Otherwise you can follow the beginners guide [here](https://freecrunch.github.io/setup-guide.html). This guide will help you create your free instances, setup the required software on it and configure it so you can start crunching data.
 
 ### Project Information
 
