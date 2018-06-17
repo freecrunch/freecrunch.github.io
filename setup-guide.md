@@ -1,7 +1,3 @@
----
-title: Document Center
----
-
 <img src="https://pasteboard.co/images/HqcBMsm.png/download" width="60%" height="60%">
 
 ## Setting up a server from scratch
