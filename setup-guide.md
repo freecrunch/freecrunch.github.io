@@ -1,4 +1,4 @@
-<img src="https://pasteboard.co/images/HqcBMsm.png/download" width="60%" height="60%">
+<img src="fclogo.png" width="60%" height="60%">
 
 ## Setting up a server from scratch
 In this guide you'll find information on the free trials available, how to create an instance using one, and how you can setup the software required to start contributing to projects. Depending on whether you've already got a server or what your skill level you may have already completed some of these tasks. Feel free to use the links to jump to where you feel confident starting.
