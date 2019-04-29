@@ -1,4 +1,4 @@
-<img src="https://pasteboard.co/images/HqcBMsm.png/download" width="60%" height="60%">
+<img src="fclogo.png" width="60%" height="60%">
 
 ### Introduction
 The FreeCrunch project is an attempt to get as many people as possible using free cloud instance trials to help genuine research in science and mathematics.
